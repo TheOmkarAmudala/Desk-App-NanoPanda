@@ -4,7 +4,28 @@ import os
 
 from deepface import DeepFace
 
+# =========================
+# CREATE STORAGE FOLDER
+# =========================
+
+storage_folder = r"C:\Users\Omkar amudala\Desktop\Nanopanda embeeds"
+
+os.makedirs(storage_folder, exist_ok=True)
+
+capture_path = os.path.join(
+    storage_folder,
+    "capture.jpg"
+)
+
+embedding_path = os.path.join(
+    storage_folder,
+    "embedding.json"
+)
+
+# =========================
 # OPEN CAMERA
+# =========================
+
 cap = cv2.VideoCapture(0)
 
 if not cap.isOpened():
@@ -33,13 +54,11 @@ while True:
     if key == 32:
 
         cv2.imwrite(
-            "capture.jpg",
+            capture_path,
             frame
         )
 
-        print(
-            "Face Captured"
-        )
+        print("Face Captured")
 
         break
 
@@ -56,10 +75,13 @@ cap.release()
 
 cv2.destroyAllWindows()
 
+# =========================
 # GENERATE EMBEDDING
+# =========================
+
 embedding = DeepFace.represent(
 
-    img_path="capture.jpg",
+    img_path=capture_path,
 
     model_name="Facenet",
 
@@ -69,13 +91,13 @@ embedding = DeepFace.represent(
 
 vector = embedding[0]["embedding"]
 
-# SAVE FILE
-file_path = "embedding.json"
-
+# =========================
 # LOAD OLD DATA
-if os.path.exists(file_path):
+# =========================
 
-    with open(file_path, "r") as file:
+if os.path.exists(embedding_path):
+
+    with open(embedding_path, "r") as file:
 
         data = json.load(file)
 
@@ -85,14 +107,20 @@ else:
         "embeddings": []
     }
 
+# =========================
 # APPEND NEW EMBEDDING
+# =========================
+
 data["embeddings"].append(vector)
 
+# =========================
 # SAVE UPDATED DATA
-with open(file_path, "w") as file:
+# =========================
+
+with open(embedding_path, "w") as file:
 
     json.dump(data, file)
 
-print(
-    "Embedding Saved Successfully"
-)
+print("Embedding Saved Successfully")
+
+print(f"Saved at: {embedding_path}")

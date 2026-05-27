@@ -3,7 +3,7 @@ import { useState, useRef } from 'react';
 import { ArrowRight, Maximize2 } from 'lucide-react';
 import VerificationOverlay from "./VerificationOverlay"
 import {useNavigate} from "react-router-dom";
-const navigate = useNavigate();
+
 const NavItem = ({ text }) => (
   <a href="#" className="flex items-center text-gray-200 hover:text-white transition-colors text-[15px] font-medium group">
     <span className="w-1.5 h-1.5 bg-gray-500 mr-2.5 opacity-70 group-hover:bg-white transition-colors"></span>
@@ -13,7 +13,7 @@ const NavItem = ({ text }) => (
 
 
 export default function Home() {
-
+  const navigate = useNavigate();
   const [showVerification, setShowVerification] = useState(false);
   const verificationRef = useRef(null);
 
@@ -23,7 +23,6 @@ export default function Home() {
       block: "start",
     });
   };
-
 
   const handlehomescreen = async () => {
     navigate('/home');
