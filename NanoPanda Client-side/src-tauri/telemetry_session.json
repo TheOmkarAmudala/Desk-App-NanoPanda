@@ -1,0 +1,511 @@
+{
+  "network_connections": [
+    {
+      "connection": "TCP    127.0.0.1:6000         127.0.0.1:49741        ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    127.0.0.1:6000         127.0.0.1:49742        ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    127.0.0.1:6000         127.0.0.1:49743        ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    127.0.0.1:6188         127.0.0.1:49920        ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    127.0.0.1:6188         127.0.0.1:49921        ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    127.0.0.1:6189         127.0.0.1:49922        ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    127.0.0.1:6189         127.0.0.1:49923        ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    127.0.0.1:6189         127.0.0.1:49924        ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    127.0.0.1:49741        127.0.0.1:6000         ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    127.0.0.1:49742        127.0.0.1:6000         ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    127.0.0.1:49743        127.0.0.1:6000         ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    127.0.0.1:49914        127.0.0.1:49915        ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    127.0.0.1:49915        127.0.0.1:49914        ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    127.0.0.1:49916        127.0.0.1:49917        ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    127.0.0.1:49917        127.0.0.1:49916        ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    127.0.0.1:49920        127.0.0.1:6188         ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    127.0.0.1:49921        127.0.0.1:6188         ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    127.0.0.1:49922        127.0.0.1:6189         ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    127.0.0.1:49923        127.0.0.1:6189         ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    127.0.0.1:49924        127.0.0.1:6189         ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    127.0.0.1:50079        127.0.0.1:52704        ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    127.0.0.1:52704        127.0.0.1:50079        ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:49435    4.213.25.241:443       ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:54535    3.6.158.52:443         ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:54778    3.6.158.52:22          ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:54781    3.6.158.52:22          ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:57330    104.18.39.21:443       ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:57342    57.144.123.32:5222     ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:57349    172.253.118.188:5228   ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:57351    172.188.155.25:443     ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:57353    15.197.213.252:443     ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:57354    13.234.246.132:443     ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:57376    52.98.88.242:443       ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:57390    4.213.25.242:443       ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:57579    4.145.11.36:443        ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:57637    52.10.47.78:443        ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:57697    52.110.14.184:443      ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:57698    52.98.88.66:443        ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:57699    52.98.88.66:443        ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:57708    23.211.60.85:443       ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:57711    150.171.27.10:443      ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:57712    23.55.244.25:443       ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:57713    23.55.244.25:443       ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:57714    150.171.28.12:443      ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:57715    54.230.27.34:443       ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:57716    150.171.28.11:443      ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:57721    13.107.6.158:443       ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:57722    4.213.133.127:443      ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    192.168.29.83:57726    150.171.28.11:443      ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    [::1]:5175             [::1]:57707            ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    },
+    {
+      "connection": "TCP    [::1]:57707            [::1]:5175             ESTABLISHED",
+      "timestamp": "2026-05-25 00:11:48"
+    }
+  ],
+  "usb_devices": [],
+  "window_activity": [
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:10:47",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:10:48",
+      "window_title": "Tauri-Applciation – VerificationOverlay.jsx"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:10:49",
+      "window_title": "Tauri-Applciation – VerificationOverlay.jsx"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:10:50",
+      "window_title": "Tauri-Applciation – VerificationOverlay.jsx"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:10:51",
+      "window_title": "Tauri-Applciation – VerificationOverlay.jsx"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:10:52",
+      "window_title": "Tauri-Applciation – VerificationOverlay.jsx"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:10:53",
+      "window_title": "Tauri-Applciation – VerificationOverlay.jsx"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:10:54",
+      "window_title": "Tauri-Applciation – VerificationOverlay.jsx"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:10:55",
+      "window_title": "Tauri-Applciation – VerificationOverlay.jsx"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:10:56",
+      "window_title": "Tauri-Applciation – VerificationOverlay.jsx"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:10:57",
+      "window_title": "Tauri-Applciation – VerificationOverlay.jsx"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:10:58",
+      "window_title": "Tauri-Applciation – VerificationOverlay.jsx"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:10:59",
+      "window_title": "Tauri-Applciation – VerificationOverlay.jsx"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:11:00",
+      "window_title": "Tauri-Applciation – VerificationOverlay.jsx"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:11:01",
+      "window_title": "Tauri-Applciation – VerificationOverlay.jsx"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:11:02",
+      "window_title": "Tauri-Applciation – lib.rs"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:03",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:11:04",
+      "window_title": "Tauri-Applciation – lib.rs"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:05",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:06",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Windows Explorer",
+      "timestamp": "2026-05-25 00:11:07",
+      "window_title": ""
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:08",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:09",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:10",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:11",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:12",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:13",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:14",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:11:15",
+      "window_title": "Tauri-Applciation – lib.rs"
+    },
+    {
+      "app_name": "Windows Explorer",
+      "timestamp": "2026-05-25 00:11:16",
+      "window_title": ""
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:17",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:18",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:19",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:20",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:21",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:22",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:23",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:24",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:25",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:26",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:27",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:28",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:29",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:30",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:31",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:32",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:33",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:34",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:35",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Microsoft Edge",
+      "timestamp": "2026-05-25 00:11:36",
+      "window_title": "Darktrace Cybersecurity Explained and 6 more pages - Personal - Microsoft​ Edge"
+    },
+    {
+      "app_name": "Windows Explorer",
+      "timestamp": "2026-05-25 00:11:37",
+      "window_title": "Task Switching"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:11:38",
+      "window_title": "Tauri-Applciation – lib.rs"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:11:39",
+      "window_title": "Tauri-Applciation – lib.rs"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:11:40",
+      "window_title": "Tauri-Applciation – lib.rs"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:11:41",
+      "window_title": "Tauri-Applciation – lib.rs"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:11:42",
+      "window_title": "Tauri-Applciation – lib.rs"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:11:43",
+      "window_title": "Tauri-Applciation – lib.rs"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:11:44",
+      "window_title": "Tauri-Applciation – lib.rs"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:11:45",
+      "window_title": "Tauri-Applciation – lib.rs"
+    },
+    {
+      "app_name": "WebStorm",
+      "timestamp": "2026-05-25 00:11:46",
+      "window_title": "Tauri-Applciation – lib.rs"
+    }
+  ]
+}
